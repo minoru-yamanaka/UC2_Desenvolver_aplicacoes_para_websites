@@ -1,11 +1,6 @@
-# Técnico em Informática para Internet
-
-
-![img_teste](/image.png)
-
----
-
 ### UC2: Desenvolver Aplicações para Websites
+
+[Prof° Aécio Brito](https://github.com/aeciobrito)
 
 **Carga Horária**: 72 Horas
 
