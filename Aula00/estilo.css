@@ -13,4 +13,17 @@ html, body {
 h1, p {
     text-align: center; /* Garante que o texto dentro dos elementos esteja centralizado */
     margin: 0; /* Remove a margem padrão dos elementos */
+    color: greenyellow;
+}
+
+ul {
+    text-align: right; /* Alinha a lista à direita */
+    padding: 0; /* Remove o padding padrão da lista */
+    margin: 0; /* Remove a margem padrão da lista */
+    list-style-type: none; /* Remove os marcadores da lista */
+}
+
+li {
+    display: inline-block; /* Faz com que os itens da lista se comportem como blocos em linha */
+    margin: 5px ; /* Espaçamento entre os itens da lista */
 }
